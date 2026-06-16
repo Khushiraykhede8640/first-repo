@@ -1,3 +1,3 @@
 # first-repo
 This is my first Git Repository.
-Author-Khushi raykhede
+Author-Khushi raykhede gurjar
